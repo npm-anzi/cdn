@@ -1,11 +1,12 @@
 
 @font-face {
   font-family: "Flaticon";
-  src: url("../fonts/flaticon.eot");
-  src: url("../fonts/flaticon.eot?#iefix") format("embedded-opentype"),
-       url("../fonts/flaticon.woff") format("woff"),
-       url("../fonts/flaticon.ttf") format("truetype"),
-       url("../fonts/flaticon.svg#Flaticon") format("svg");
+  src: url("https://cdn.jsdelivr.net/gh/npm-anzi/cdn@main/Flaticon.eot");
+  src: url("https://cdn.jsdelivr.net/gh/npm-anzi/cdn@main/Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("https://cdn.jsdelivr.net/gh/npm-anzi/cdn@main/Flaticon.woff") format("woff"),
+       url("https://cdn.jsdelivr.net/gh/npm-anzi/cdn@main/Flaticon.woff2") format("woff"),
+       url("https://cdn.jsdelivr.net/gh/npm-anzi/cdn@main/Flaticon.ttf") format("truetype"),
+       url("https://cdn.jsdelivr.net/gh/npm-anzi/cdn@main/Flaticon.svg#Flaticon") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -13,7 +14,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "Flaticon";
-    src: url("../fonts/flaticon.svg#Flaticon") format("svg");
+    src: url("https://cdn.jsdelivr.net/gh/npm-anzi/cdn@main/Flaticon.svg#Flaticon") format("svg");
   }
 }
 
